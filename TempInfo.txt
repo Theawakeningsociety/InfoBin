@@ -1,0 +1,1 @@
+{u'prepaid': False, u'country': {u'alpha2': u'MX', u'name': u'Mexico', u'numeric': u'484', u'currency': u'MXN', u'longitude': -102, u'latitude': 23, u'emoji': u'\U0001f1f2\U0001f1fd'}, u'brand': u'Electron', u'number': {u'length': 16, u'luhn': True}, u'scheme': u'visa', u'type': u'debit', u'bank': {u'phone': u'018002262663', u'name': u'BBVA BANCOMER'}}
